@@ -1,0 +1,20 @@
+<div class="work-detail">
+
+    <a href="javascript:history.back()" class="back" title="back to works" *ngIf="showBack">back</a>
+
+    <div class="work" *ngFor="let item of dataset?.gallery" 
+
+        [ngClass]="item.class !== undefined ? item.class : ''"
+        [style.width]="item.w !== undefined ? item.w + 'px' : ''"
+        [style.height]="item.h !== undefined ? item.h + 'px' : ''"
+        [style.background-image]="item?.type === undefined ? getImageUrl(item.src) : ''"
+        
+    >
+
+        <aside *ngIf="item?.type === 'youtube'">
+            <iframe width="853" height="480" [src]="getVideoUrl(item?.src) | safe" scrolling="no" frameborder="0"  allowfullscreen></iframe>
+        </aside>
+
+    </div>    
+
+</div>

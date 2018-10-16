@@ -1,1 +1,69 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Oriya';
+    src: url('./assets/fonts/OriyaSangamMN.ttf') format('truetype');
+    src: url('./assets/fonts/OriyaSangamMN.eot');
+    src: url('./assets/fonts/OriyaSangamMN.woff');
+    src: url('./assets/fonts/OriyaSangamMN.svg');
+    src: url('./assets/fonts/OriyaSangamMN.woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body { margin: 0; padding: 0; }
+a { text-decoration: none; }
+h1 { font-family: 'Oriya', 'Arial' }
+
+.default { background: url('./assets/default.png') top center no-repeat; background-size: cover; width: 100%; height: 100%; position: absolute; }
+
+.yasemin { background: #F8F8F8; }
+
+.yasemin header { height: 86px; width: 100%; background-color: #FFF; }
+.yasemin header .wrapper { height: 100%; width: 1210px; margin: 0 auto; padding: 20px 10px 0 5px; }
+.yasemin header .wrapper aside.left { float: left; text-align: left; height: 46px; }
+.yasemin header .wrapper aside.left a.logo { float: left; display: block; width: 43px; height: 46px; background: url('./assets/yasemin/logo.png'); margin-right: 21px; }
+.yasemin header .wrapper aside.left .full-name { float: left; width: 193px; height: 17px; background: url('./assets/yasemin/yasemin-name.png'); margin-top: 15px; }
+.yasemin header .wrapper aside.right { float: right;  height: 46px; }
+.yasemin header .wrapper aside.right .social-icons { float: left; margin-top: 5px; }
+.yasemin header .wrapper aside.right .social-icons a { background: url('./assets/yasemin/social-icons.png'); float: left; margin-right: 14px; }
+.yasemin header .wrapper aside.right .social-icons a:last-child { margin-right: 0; } 
+.yasemin header .wrapper aside.right .social-icons a:hover { opacity: .8; }
+.yasemin header .wrapper aside.right .social-icons a.behance { width: 37px; height: 37px; display: block; background-position: 0 0; }
+.yasemin header .wrapper aside.right .social-icons a.linked-in { width: 37px; height: 37px; display: block; background-position: -52px 0; }
+
+.yasemin .wrapper { width: 100%; text-align: center; margin: 0 auto; }
+.yasemin .content { max-width: 1230px; margin: 0 auto; }
+
+.yasemin .works { display: inline-block; min-height: 500px; text-align: center; margin: 0 auto; }
+
+.yasemin .works .workTypes { font-family: 'Oriya'; font-size: 13px; letter-spacing: 1px; padding: 30px 0; width: 1230px; overflow: hidden }
+.yasemin .works .workTypes a { color: #726F6F; margin-right: 20px; }
+.yasemin .works .workTypes a:last-child { margin-right: 0; }
+.yasemin .works .workTypes a.active { color: #000; }
+.yasemin .works .workTypes a:hover { color: #302E2E; }
+
+.yasemin .works .workList { float: left; }
+
+.yasemin .works .workList a.work { float: left; margin: 0 5px 5px; }
+.yasemin .works .workList a.work:hover { opacity: .8 }
+
+.yasemin .back { display: block; background: url('./assets/yasemin/back.png') no-repeat; width: 40px; height: 20px; position: fixed; left: auto; margin-left: -72px; text-indent: -9999px; text-decoration: none; z-index: 9; }
+
+.yasemin .work-detail { display: inline-block; margin: 30px 0 0 10px; }
+.yasemin .work-detail .work { float: left; height: 562px; background-size: 100% 100%; margin: 0 10px 10px 0; }
+.yasemin .work-detail .work.xxs { width: 294px; height: 413px; }
+.yasemin .work-detail .work.xs { width: 397px; height: 558px; }
+.yasemin .work-detail .work.xs-1 { width: 396px; height: 558px; }
+.yasemin .work-detail .work.small { width: 400px; height: 562px; }
+.yasemin .work-detail .work.middle { width: 600px; height: 421px; }
+.yasemin .work-detail .work.big { width: 800px; height: 562px; }
+.yasemin .work-detail .work.xl { width: 1210px; height: 562px; }
+.yasemin .work-detail .work.poster { width: 340px; height: 480px; }
+.yasemin .work-detail .work.big-v { width: 853px; height: auto; }
+.yasemin .work-detail .work.xl-v { width: 1210px; height: auto; }
+
+.yasemin footer { font-family: Oriya; width: 100%; padding: 50px 0; text-align: center; }
+.yasemin footer .email { margin-bottom: 10px; }
+.yasemin footer .email a { font-size: 24px; color: #726F6F; }
+.yasemin footer .email a:hover { color: #302E2E; }
+.yasemin footer .phone { font-size: 18px; color: #8D8080; }

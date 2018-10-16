@@ -1,0 +1,475 @@
+﻿{
+  
+  "alpet": { 
+    "gallery": [
+      { "src": "01alpet.png", "class": "xxs" },
+      { "src": "02alpet.png", "class": "xxs" },
+      { "src": "03alpet.png", "class": "xxs" },
+      { "src": "04alpet.png", "class": "xxs" }
+  ]},
+
+  "ameinfocus": { 
+    "gallery": [
+      { "src": "ameinfocus-magazine.png", "class": "big" }
+  ]},
+
+    "immafafrica": { 
+    "gallery": [
+      { "src": "01immafafrica.png", "class": "small" },
+      { "src": "02immafafrica.png", "class": "big" }
+  ]},
+
+  "baradam": {
+    "gallery": [
+      { "src": "01baradam.png", "class": "xl"},
+      { "src": "02baradam.png", "class": "middle"},
+      { "src": "03baradam.png", "class": "middle"},
+      { "src": "04baradam.png", "class": "xl"}
+    ]},
+
+  "foodie": {
+    "gallery": [
+      { "src": "01foodie.png", "class": "xl"},
+      { "src": "02foodie.png", "class": "xl"},
+      { "src": "03foodie.png", "class": "xl"},
+      { "src": "04foodie.png", "class": "xl"}
+    ]},
+
+   "makyaj": {
+    "gallery": [
+      { "src": "01makyaj.png", "class": "xl"},
+      { "src": "02makyaj.png", "class": "xl"},
+      { "src": "03makyaj.png", "class": "xl"}
+    ]},
+
+    "williamhill": {
+     "gallery": [
+      { "src": "01williamhill.png", "class": "xl"},
+      { "src": "02williamhill.png", "class": "xl"},
+      { "src": "03williamhill.png", "class": "xl"},
+      { "src": "04williamhill.png", "class": "xl"}
+    ]},
+    
+  "immafafrica": { 
+    "gallery": [
+      { "src": "01immafafrica.png", "class": "small" },
+      { "src": "02immafafrica.png", "class": "big" }
+  ]},
+
+  "ufc": { 
+    "gallery": [
+      { "src": "01ufc.png", "class": "small" },
+      { "src": "02ufc.png", "class": "big" },
+      { "src": "03ufc.png", "class": "big" },
+      { "src": "04ufc.png", "class": "small" }
+  ]},
+
+  "immafoceania": { 
+    "gallery": [
+      { "src": "01immafoceania.png", "class": "small" },
+      { "src": "02immafoceania.png", "class": "big" },
+      { "src": "03immafoceania.png", "class": "big" },
+      { "src": "04immafoceania.png", "class": "small" },
+      { "src": "05immafoceania.png", "class": "big" }    
+  ]},
+  
+  "saints": { 
+    "gallery": [
+      { "src": "01saints.png", "class": "big" },
+      { "src": "02saints.png", "class": "small" },
+      { "src": "03saints.png", "class": "big" }  
+  ]},
+
+"fortyfour": { 
+    "gallery": [
+      { "src": "01fortyfour.png", "class": "xl" },
+      { "src": "02fortyfour.png", "class": "small" },
+      { "src": "03fortyfour.png", "class": "big" },
+      { "src": "06fortyfour.png", "class": "big" },
+      { "src": "05fortyfour.png", "class": "small" }
+  ]},
+
+"immafmagazine": { 
+    "gallery": [
+      { "src": "01immafmagazine.png", "class": "big" },
+      { "src": "02immafmagazine.png", "class": "small" },
+      { "src": "03immafmagazine.png", "class": "small" },
+      { "src": "04immafmagazine.png", "class": "big" },
+      { "src": "05immafmagazine.png", "class": "big" }
+  ]},
+ 
+"redbullbag": { 
+    "gallery": [
+      { "src": "01redbullbag.png", "class": "big" },
+      { "src": "02redbullbag.png", "class": "small" },
+      { "src": "03redbullbag.png", "class": "small" },
+      { "src": "04redbullbag.png", "class": "big" },
+      { "src": "05redbullbag.png", "class": "big" },
+      { "src": "06redbullbag.png", "class": "small" },
+      { "src": "07redbullbag.png", "class": "big" },
+      { "src": "08redbullbag.png", "class": "small" }    
+  ]},
+
+
+  "ankha": { 
+    "gallery": [
+      { "src": "01ankha.png", "class": "small" },
+      { "src": "02ankha.png", "class": "big" },
+      { "src": "04ankha.png", "class": "big" },
+      { "src": "03ankha.png", "class": "small" },
+      { "src": "06ankha.png", "class": "small" },
+      { "src": "05ankha.png", "class": "big" },
+      { "src": "07ankha.png", "class": "big" },
+      { "src": "08ankha.png", "class": "small" },
+      { "src": "09ankha.png", "class": "small" },
+      { "src": "10ankha.png", "class": "big" },
+      { "src": "12ankha.png", "class": "big" },
+      { "src": "11ankha.png", "class": "small" }   
+  ]},
+
+  "as": { 
+    "gallery": [
+      { "src": "01as.png", "class": "middle" },
+      { "src": "02as.png", "class": "middle" }
+  ]},
+
+  "assos": { 
+    "gallery": [
+       { "src": "11assostravel.png", "class": "xl" },
+      { "src": "12assostravel.png", "class": "xxs" },
+      { "src": "13assostravel.png", "class": "xxs" },
+      { "src": "14assostravel.png", "class": "xxs" },
+      { "src": "30assostravel.png", "class": "xxs" },
+      { "type": "youtube", "src": "UqDIIUjVjB0", "class": "xl-v" },
+      { "src": "01assoselmas.png", "class": "small" },
+      { "src": "02assoselmas.png", "class": "big" },
+      { "src": "03assoselmas.png", "class": "middle" },
+      { "src": "04assoselmas.png", "class": "middle" },
+      { "type": "youtube", "src": "vvdR6y6DQno", "class": "xl-v" },
+      { "src": "05assoswomansday.png", "class": "xs" },
+      { "src": "06assoswomansday.png", "class": "xs-1" },
+      { "src": "07assoswomansday.png", "class": "xs" },
+      { "src": "08assoshenna.png", "class": "xs" },
+      { "src": "09assoshenna.png", "class": "xs-1" },
+      { "src": "10assoshenna.png", "class": "xs" },
+      { "src": "15assosmanandwoman.png", "class": "poster" },
+      { "type": "youtube", "src": "jmt4emnW5zw", "class": "big-v" },
+      { "src": "27assosnewyear2.png", "class": "poster" },
+      { "type": "youtube", "src": "BnSP7LR-Hxo", "class": "big-v" },
+      { "src": "23assosmagic.png", "class": "poster" },
+      { "type": "youtube", "src": "Jv0Ct2QOdME", "class": "big-v" },
+      { "src": "24assosvalentinesday2.png", "class": "poster" },
+      { "type": "youtube", "src": "SsUhix1kkHc", "class": "big-v" },
+      { "src": "22assosnewyear.png", "class": "poster" },
+      { "type": "youtube", "src": "JNVVNDcx95w", "class": "big-v" },
+      { "src": "29assosvalentinesday1.png", "class": "poster" },
+      { "type": "youtube", "src": "7i4-OyvCDUI", "class": "big-v" },
+      { "src": "19assospretty.png", "class": "xs" },
+      { "src": "21assospretty.png", "class": "xs-1" },
+      { "src": "20assospretty.png", "class": "xs" },
+      { "src": "17assosgraduate.png", "class": "xxs" },
+      { "src": "18assosgraduate.png", "class": "xxs" },
+      { "src": "26assosmotherday.png", "class": "xxs" },
+      { "src": "25assoshopes.png", "class": "xxs" }
+  ]},
+  
+
+  "badamli": { 
+    "gallery": [
+      { "src": "01badamli_juice.png", "class": "big" },
+      { "src": "02sunpride_juice.png", "class": "small" }
+  ]},
+
+  "balkan": { 
+    "gallery": [
+      { "src": "01balkan-milk.png", "class": "middle" },
+      { "src": "02balkan-milk.png", "class": "middle" },
+      { "src": "03balkan-milk.png", "class": "big" }
+  ]},
+
+  "banetti": { 
+    "gallery": [
+      { "src": "01banetti-logo.png", "class": "middle" },
+      { "src": "02banetti-packaging.png", "class": "middle" },
+      { "src": "03banetti-ad.png", "class": "small" },
+      { "src": "04banetti-ad.png", "class": "big" },
+      { "src": "05banetti-pack-alternative.png", "class": "xl" }
+  ]},
+
+  "bdt": { 
+    "gallery": [
+      { "src": "01bdt.png", "class": "small" },
+      { "src": "02bdt.png", "class": "big" },
+      { "src": "03bdt.png", "class": "xs" },
+      { "src": "04bdt.png", "class": "xs-1" },
+      { "src": "05bdt.png", "class": "xs" }
+  ]},
+
+  "beta": { 
+    "gallery": [
+      { "src": "01betasummer.png", "class": "middle" },
+      { "src": "02betasummer.png", "class": "middle" },
+      { "src": "03betasummer.png", "class": "middle" },
+      { "src": "04betasummer.png", "class": "middle" },
+      { "src": "06betasale.png", "class": "big" },
+      { "src": "07betasale.png", "class": "small" },
+      { "src": "08betaseason.png", "class": "middle" },
+      { "src": "09betaseason.png", "class": "middle" },
+      { "src": "10betaseason.png", "class": "middle" },
+      { "src": "11betaseason.png", "class": "middle" },
+      { "src": "12betawallstreet.png", "class": "small" },
+      { "src": "13betawallstreet.png", "class": "small" }
+  ]},
+
+  "bookcover": { 
+    "gallery": [
+      { "src": "01book-cover.png", "class": "small" },
+      { "src": "02book-cover.png", "class": "big" },
+      { "src": "03book-cover.png", "class": "small" },
+      { "src": "04book-cover.png", "class": "big" },
+      { "src": "05book-cover.png", "class": "small" },
+      { "src": "06book-cover.png", "class": "big" },
+      { "src": "07book-cover.png", "class": "small" },
+      { "src": "08book-cover.png", "class": "big" },
+      { "src": "09book-cover.png", "class": "small" },
+      { "src": "10book-cover.png", "class": "big" },
+      { "src": "11cd-cover.png", "class": "middle" },
+      { "src": "12cd-cover.png", "class": "middle" }
+  ]}, 
+
+  "celebration": { 
+    "gallery": [
+      { "src": "01manga_party.png", "class": "middle" },
+      { "src": "02party.png", "class": "middle" },
+      { "src": "03watch.png", "class": "big" }
+  ]},
+
+  "channels": { 
+    "gallery": [
+      { "src": "01channels.png", "class": "middle" },
+      { "src": "02channels.png", "class": "middle" },
+      { "src": "03channels.png", "class": "middle" },
+      { "src": "04channels.png", "class": "middle" },
+      { "src": "05channels.png", "class": "middle" },
+      { "src": "06channels.png", "class": "middle" },
+      { "src": "07channels.png", "class": "middle" },
+      { "src": "08channels.png", "class": "middle" }      
+  ]},
+
+  "chemist": { 
+    "gallery": [
+      { "src": "chemist-magazine.png", "class": "small" }     
+  ]},    
+
+  "crystal": { 
+    "gallery": [
+      { "src": "01crystal-advertorial.png", "class": "middle" },
+      { "src": "02crystal-advertorial.png", "class": "middle" },
+      { "src": "03crystal-advertorial.png", "class": "big" }
+  ]},
+
+  "dogabizimevimiz": { 
+    "gallery": [
+      { "src": "01doga-bizim-evimiz.png", "class": "middle" },
+      { "src": "02doga-bizim-evimiz.png", "class": "middle" },
+      { "type": "youtube", "src": "j9sj2tRXKzE", "class": "xl-v" }
+  ]},
+
+  "ekici": { 
+    "gallery": [
+      { "src": "1ekici.png", "class": "xs" },
+      { "src": "2ekici.png", "class": "xs-1" },
+      { "src": "3ekici.png", "class": "xs" },
+      { "type": "youtube", "src": "wy2rMZ0ohoY", "class": "xl-v" },
+      { "src": "4ekicipackaging.png", "class": "big" },
+      { "src": "5ekicipop.png", "class": "small" },
+      { "src": "6ekici_calendar.png", "class": "big" }
+  ]},
+
+  "glow": { 
+    "gallery": [
+      { "src": "01glow-magazine-ad", "class": "big"},
+      { "type": "youtube", "src": "bd6yWXlmHi8", "class": "xl-v" }
+  ]},
+
+  "hellotica": { 
+    "gallery": [
+      { "src": "1hellotica.png", "class": "xl" },
+      { "src": "2hellotica.png", "class": "middle" },
+      { "src": "3hellotica.png", "class": "middle" },
+      { "src": "4hellotica.png", "class": "middle" },
+      { "src": "5hellotica.png", "class": "middle" },
+      { "src": "6hellotica.png", "class": "xl" }
+  ]},
+
+  "kitchenware": { 
+    "gallery": [
+      { "src": "kitchenware-magazine-ad", "class": "small" }
+  ]},
+
+  "koctas": {
+    "gallery": [
+      { "src": "01koctas-home-katalog.png", "class": "small" },
+      { "src": "02koctas-home-katalog.png", "class": "big" },
+      { "src": "03koctas-home-katalog.png", "class": "middle" },
+      { "src": "04koctas-home-katalog.png", "class": "middle" },
+      { "src": "05koctas-garden-katalog.png", "class": "small" },
+      { "src": "06koctas-garden-katalog.png", "class": "big" },
+      { "src": "07koctas-camp-katalog.png", "class": "small" },
+      { "src": "08koctas-garden-web.png", "class": "big" },
+      { "src": "09koctas-news.png", "class": "big" },
+      { "src": "10koctas-garden-poster.png", "class": "small" },      
+      { "src": "11koctas-pixoperso.png", "class": "small" },
+      { "src": "12koctas-pixoperso.png", "class": "big" },
+      { "src": "13koctas-pixoperso.png", "class": "small" },
+      { "src": "14koctas-pixoperso.png", "class": "big" },
+      { "src": "15koctas-poster.png", "class": "xxs" },
+      { "src": "16koctas-american-kitchen-poster.png", "class": "xxs" },
+      { "src": "17koctas-marsilya-poster.png", "class": "xxs" },
+      { "src": "11koctas-bodrum-summer-houses-poster.png", "class": "xxs" }
+  ]},
+
+  "metalic": { 
+    "gallery": [
+      { "src": "metalic-magazine.png", "class": "small" }
+  ]},
+
+  "micho": { 
+    "gallery": [
+      { "src": "01micho-kucho-packaging.png", "class": "middle" }
+  ]},
+
+  "moonhaven": { 
+    "gallery": [
+      { "src": "01moonhaven.png", "class": "big" }
+  ]},
+
+  "mysoul": { 
+    "gallery": [
+      { "src": "1mysoul.png", "class": "middle" },
+      { "src": "2mysoul.png", "class": "middle" },
+      { "src": "3mysoul.png", "class": "small" },
+      { "src": "4mysoul.png", "class": "small" }
+  ]},
+
+  "odg": { 
+    "gallery": [
+      {  "src": "01organic-seed-kamp.png", "class": "middle" },
+      { "src": "02organic-seed-kamp.png", "class": "middle" },
+      { "src": "03organic-seed-kamp.png", "class": "middle" },
+      { "src": "04organic-seed-kamp.png", "class": "middle" },
+      { "src": "05organic-seed-kamp.png", "class": "middle" },
+      { "src": "06organic-seed-kamp.png", "class": "middle" },
+      { "src": "07organic-seed-kamp.png", "class": "middle" },
+      { "src": "08organic-seed-kamp.png", "class": "middle" },
+      { "src": "09organic-seed-kamp.png", "class": "middle" },
+      { "src": "10organic-seed-kamp.png", "class": "middle" },
+      { "src": "11organic-seed-kamp.png", "class": "middle" },
+      { "src": "12organic-seed-kamp.png", "class": "middle" }
+  ]},
+
+  "popeye": { 
+    "gallery": [
+      { "src": "popeye.png", "class": "xl" }
+  ]},
+
+  "sarar": { 
+    "gallery": [
+      { "src": "sarar01.png", "class": "xl" },
+      { "src": "sarar02.png", "class": "middle" },
+      { "src": "sarar03.png", "class": "middle" },
+      { "src": "sarar04.png", "class": "middle" },
+      { "src": "sarar05.png", "class": "middle" },
+      { "src": "sarar06.png", "class": "middle" },
+      { "src": "sarar07.png", "class": "middle" },
+      { "src": "sarar08.png", "class": "middle" },
+      { "src": "sarar09.png", "class": "middle" },
+      { "src": "sarar10.png", "class": "middle" },
+      { "src": "sarar11.png", "class": "middle" },
+      { "src": "sarar12.png", "class": "small" },
+      { "src": "sarar13.png", "class": "big" },
+      { "type": "youtube", "src": "lB7H44ErCoE", "class": "xl-v" }
+  ]},
+
+  "tackendinitemizleyenstor": { 
+    "gallery": [
+      { "src": "01tac-kendini-temizleyen-stor.png", "class": "small" },
+      { "src": "02tac-kendini-temizleyen-stor.png", "class": "big" }
+  ]},
+
+  "tacmothersday": { 
+    "gallery": [
+      { "src": "01tac-mothers-day-magazine-ad.png", "class": "middle" },
+      { "src": "02tac-mothers-day-magazine-ad.png", "class": "middle" }
+  ]},
+
+  "tacnevresimfilm": { 
+    "gallery": [
+      { "type": "youtube", "src": "7m4M8BhhwO0", "class": "xl-v" }
+  ]},
+
+  "taris": { 
+    "gallery": [
+      { "src": "taris.png", "class": "xl" }
+  ]},
+
+  "theaterjazz": { 
+    "gallery": [
+      { "src": "01izmir-theater-posters.png", "class": "xl" },
+      { "src": "02izmir-jazz-festival-posters.png", "class": "xl" },
+      { "src": "03izmir-europe-jazz-festival-poster.png", "class": "small" }
+  ]},
+
+  "trendsetter": { 
+    "gallery": [
+      { "src": "01trendsetter-magazine.png", "class": "small" },
+      { "src": "02trendsetter-emagazine.png", "class": "middle" },
+      { "src": "03trendsetter-emagazine.png", "class": "big" }
+  ]},
+
+  "ulker": { 
+    "gallery": [
+      { "src": "01ulker-icim.png", "class": "middle" },
+      { "src": "02ulker-icim.png", "class": "middle" },
+      { "src": "03ulker-star.png", "class": "middle" },
+      { "src": "04ulker-star.png", "class": "middle" }
+  ]},
+
+  "vakifbank": { 
+    "gallery": [
+      { "src": "01vakifbank-kit.png", "class": "middle" },
+      { "src": "02vakifbank-kit.png", "class": "middle" }
+  ]},
+
+  "yazganwine": { 
+    "gallery": [
+      { "src": "01yazgan-wine.png", "class": "middle" },
+      { "src": "02yazgan-wine.png", "class": "small" }
+  ]},
+
+  "yurtkumas": { 
+    "gallery": [
+      { "src": "yurt-kumas.png", "class": "small" }
+  ]},
+
+  "pierrecardin": { 
+    "gallery": [
+      { "type": "youtube", "src": "kHh61U8GjCs", "class": "xl-v" }  
+  ]},
+
+
+  "yvesrocher": { 
+    "gallery": [
+      { "src": "01yvesrocher.png", "class": "middle" },
+      { "src": "02yvesrocher.png", "class": "middle" },
+      { "src": "03yvesrocher.png", "class": "middle" },
+      { "src": "06yvesrocher.png", "class": "middle" },
+      { "src": "07yvesrovcher.png", "class": "middle" },
+      { "src": "08yvesrocher.png", "class": "middle" },
+      { "src": "09yvesrocher.png", "class": "middle" },
+      { "src": "12yvesrocher.png", "class": "middle" },
+      { "src": "13yvesrocher.png", "class": "middle" },
+      { "src": "14yvesrocher.png", "class": "middle" }
+  ]}
+  
+}

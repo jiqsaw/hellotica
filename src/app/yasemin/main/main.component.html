@@ -1,0 +1,18 @@
+<div class="works">
+
+  <div class="workTypes">
+
+    <a routerLink="/yasemin" [class.active]="selectedType === 'all'">ALL</a>
+    <a routerLink="/yasemin/branding" [class.active]="selectedType === 'branding'">BRANDING</a>
+    <a routerLink="/yasemin/print" [class.active]="selectedType === 'print'">PRINT</a>
+    <a routerLink="/yasemin/commercial" [class.active]="selectedType === 'commercial'">COMMERCIAL</a>
+    <a routerLink="/yasemin/packaging" [class.active]="selectedType === 'packaging'">PACKAGING</a>
+    <a routerLink="/yasemin/web" [class.active]="selectedType === 'web'">WEB</a>
+
+  </div>
+
+  <div class="workList" *ngIf="dataset !== undefined">
+    <a *ngFor="let item of dataset[selectedType]" [routerLink]="['/yasemin/detail', getItemUrl(item)]" class="work"><img [src]="'./assets/yasemin/works/' + item + '.png'" /></a>
+  </div>
+
+</div>
